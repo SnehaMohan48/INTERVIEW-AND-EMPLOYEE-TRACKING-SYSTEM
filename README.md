@@ -1,0 +1,2 @@
+# INTERVIEW-AND-EMPLOYEE-TRACKING-SYSTEM
+The Interview and Employee tracking system is a code which is used by a company or student. This project consists of details about employees and provides details about the vacancies available in the company.The code provides details about past and present employees, promoted employees, terminated employees etc.The students can use this code to find if the company has vacancies and check his interview status. The code is written using C++ language.
